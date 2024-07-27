@@ -1,4 +1,3 @@
-const crypto = require('node:crypto');
 class checkserp{
     constructor(){
         this.api = "https://checkserp.com/seo-extension"
